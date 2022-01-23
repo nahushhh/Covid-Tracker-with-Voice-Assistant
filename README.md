@@ -6,12 +6,23 @@ provides gets printed on the terminal.
 
 Valid phrases - 
 How many total cases
+
 How many total deaths
+
 How many total recovered
+
 What are the total number of cases
+
 What are the total number of deaths
+
 What are the total number of recovered
+
 How many cases in India
+
 How many deaths in India
+
 How many recovered in India
+
 How many total tests/total test in India
+
+Note: You can say any country other than India
